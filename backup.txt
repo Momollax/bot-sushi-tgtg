@@ -1,0 +1,66 @@
+"Paris": {
+            "latitude": 48.890180,
+            "longitude": 2.398784,
+            "channel_id": 1114675342779629578,
+            "radius": 4
+        },
+        "Carpentia": {
+            "latitude": 44.054847,
+            "longitude": 5.047753,
+            "channel_id": 1114684315910017085,
+            "radius": 10
+        },
+        "Combs-la-ville": {
+            "latitude": 48.663035, 
+            "longitude": 2.558027,
+            "channel_id": 1114847499329474590,
+            "radius": 10
+        },
+        "Nimes" : {
+            "latitude": 43.833652,
+            "longitude": 4.359932, 
+            "channel_id": 1114850650459746324,
+            "radius": 5
+        },
+        "Montpellier" : {
+            "latitude": 43.608237,
+            "longitude": 3.872608,
+            "channel_id": 1114850914130477116,
+            "radius": 5
+        },
+        "Nantes" : {
+            "latitude": 47.219060,
+            "longitude": -1.556572,
+            "channel_id": 1114851672175419496,
+            "radius": 5
+        },
+        "La Chapelle saint Luc" : {
+            "latitude": 48.312175,
+            "longitude": 4.047492,
+            "channel_id": 1114979545397854248,
+            "radius": 5
+        },
+        "Aubenas" : {
+            "latitude": 44.620313,
+            "longitude": 4.389409,
+            "channel_id": 1115019806832349204,
+            "radius": 5
+        },
+        "valences" : {
+            "latitude": 44.932419,
+            "longitude": 4.892558,
+            "channel_id": 1115019899136385076,
+            "radius": 5
+        },
+        "avignion" : {
+            "latitude": 43.950071,
+            "longitude": 4.806296,
+            "channel_id": 1114851089452372068,
+            "radius": 6
+        },
+        "Troyes" : {
+            "latitude": 48.296310,
+            "longitude": 4.072851,
+            "channel_id": 1115377811180498944,
+            "radius": 6
+        },
