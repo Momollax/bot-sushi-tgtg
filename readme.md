@@ -15,7 +15,8 @@ add your city, add the lagitude, longitude with google map
 and add the chanel where the bot whant to speak
 radius is for kilometer arount the point.
 
-``` "Rennes": {
+``` 
+    "Rennes": {
             "latitude": 48.118437,
             "longitude": -1.689145,
             "channel_id": 1114550983364706354,
